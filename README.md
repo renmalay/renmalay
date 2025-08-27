@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel, PHP, Livewire**
 
-- 📫 How to reach me **pbenedict.lirio@gmail.com**
+- 📫 How to reach me **malayren88@gmail.com**
 
 - ⚡ Fun fact **I'm not funny**
 
