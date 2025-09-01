@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renedel Malay</h1>
 <h3 align="center">An aspiring Software Engineer from Philippines</h3>
 <h3 align="center">Currently a Lead Front End Developer and Supervisor</h3>
-<img align="right" alt="Coding" height="200" width="200" src="[[https://r2.erweima.ai/imgcompressed/img/compressed_1ece74076a54359f75f5f6d1ccd8dfca.webp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-png-vectors%2Fprogrammer&psig=AOvVaw2ocETNxdHqnT5fA7Zkhch7&ust=1756787992298000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCIibrfto8DFQAAAAAdAAAAABAo)](https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_6804917.png)"/>
+<img align="right" alt="Coding" height="200" width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fprogrammer&psig=AOvVaw2ocETNxdHqnT5fA7Zkhch7&ust=1756787992298000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCIibrfto8DFQAAAAAdAAAAABAy"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RenedelMalay&label=Profile%20views&color=0e75b6&style=flat" alt="RenedelMalay" /> </p>
 
